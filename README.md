@@ -1,7 +1,7 @@
 # vbsdjvbsd-
 chdsbcvhjds
 vndskjvbjsdk
-asiuicbaskjdbvkjsdbv
+/usr/bin/bash: wq: command not found
 vsdv
 sdvsdv
 sdvvsdvsd
